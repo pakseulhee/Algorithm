@@ -57,6 +57,8 @@
   
    - 상위 n개 레코드
    
+   - 
+   
   </details>
   
   <details><summary>프로그래머스 Level 2</summary>
