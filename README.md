@@ -1,4 +1,4 @@
-# 📕 Algorithm ![GitHub last commit](https://img.shields.io/github/last-commit/parkseulhee/Algorithm)
+# 📕 Algorithm ![GitHub last commit](https://img.shields.io/github/last-commit/pakseulhee/Algorithm)
 
 > **Algorithm**공부와 관련된  업로드 합니다. 
 
